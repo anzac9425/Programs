@@ -37,7 +37,8 @@ if "%input%" == "1" (
 	exit
 	)
 )else if "%input%" == "2" (
-	goto start
+	start PROGRAM.bat
+	exit
 	)
 )else (
 	cls
@@ -49,7 +50,7 @@ pause
 
 :info
 cls
-echo 개발: PH
+echo 개발: PH GAMES
 echo 프로그램 버전: beta0.3
 echo 프로그램 업데이트: https://github.com/anzac9425/Programs
 pause
