@@ -51,8 +51,8 @@ pause
 :info
 cls
 echo 개발: PH GAMES
-echo 프로그램 버전: beta0.3.2
-echo 프로그램 업데이트: https://github.com/anzac9425/Programs
+echo 프로그램 버전: beta0.3.3
+echo 프로그램 업데이트: https://github.com/anzac9425/Programs/blob/main/PROGRAM.bat
 pause
 goto menu
 
