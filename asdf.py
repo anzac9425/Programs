@@ -11,7 +11,6 @@ while yesNo:
         while yesNo2:
             rsp = ['가위', '바위', '보']
             airsp = random.choice(rsp)
-            print(airsp)
             inputt = input("가위, 바위, 보 중 하나만 입력해 주십시오.: ")
 
             if inputt == "가위":
